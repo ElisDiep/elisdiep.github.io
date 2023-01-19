@@ -14,7 +14,7 @@ labels:
   - UAV
 summary: "My team and I are building an autonomous quadcopter that will attend AUVSI SUAS competition. The drone will mimic payload delivery. The drone will fly waypoint to waypoint and then search and area. In the search area, a object detection classification localizaton (ODCL) script will run. Once target are detected the location will be sent to automous python script and the drone will deliver the 5 payloads to each target accordingly."
 ---
-
+<img width="200px"  src="../img/UHDT_Drone.png"> <img width="200px"  src="../img/Logo.jpg"> <img width="200px"  src="../img/SITL.png">
 
 I am the lead to for the unmanned aerial vehicle (UAV) software subsystem. My subsystem and I work to make sure that the UAV has autonomously functionality. My team and I are building an autonomous quadcopter that will attend AUVSI SUAS competition. The drone will mimic payload delivery. The drone will fly waypoint to waypoint and then search and area. In the search area, a object detection classification localizaton (ODCL) script will run. Once target are detected the location will be sent to automous python script and the drone will deliver the 5 payloads to each target accordingly.
 
