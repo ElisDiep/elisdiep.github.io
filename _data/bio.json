@@ -10,8 +10,7 @@
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "elisdiep", "url": "http://github.com/elisdiep" },
-      { "network": "linkedin", "username": "elisdiep", "url": "http://linkedin.com/in/elisdiep" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
+      { "network": "linkedin", "username": "elisdiep", "url": "https://www.linkedin.com/in/elis-diep-aba415153?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BJzsC7NfiQMWpFxVX4LFH4w%3D%3D" },
       { "network": "instagram", "username": "elis_diep", "url": "http://instagram.com/elis_diep" }
     ]
   },
