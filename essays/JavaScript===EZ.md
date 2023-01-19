@@ -10,7 +10,7 @@ labels:
   - athletic engineering
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/javaScript.jpg">
+<img width="200px" class="rounded float-start pe-4" src="../img/javaScript.png">
 
 ## **JavaScript... Easy Language or Past Experience**
 Whenever I would see the The JavaScript logo, it always made me think that it was some sort of coffee brand. I would never have imagined it would be the fourth coding language I would learn. So far, I have learned Java, C, and Python. JavaScript has been the easiest of the four. Some of the reasons why I think it is the easiest of the four is because of the simple syntax, it does not have as many specific rules like Java or C and since I already know 3 other coding languages I have had a lot of practice. Learning the previous languages has made the transition easier for me.
