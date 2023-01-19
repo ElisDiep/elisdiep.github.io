@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/UHDT.png
-title: "University-of-Hawaii-Drone-Technologies.md"
+title: "University of Hawaii Drone Technologies"
 date: 2022
 published: true
 labels:
