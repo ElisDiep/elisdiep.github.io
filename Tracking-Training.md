@@ -13,7 +13,7 @@ labels:
 summary: "Creating a web application that will track the training of the airmen in the Air Force"
 ---
 
-<img width="400px"  src="../img/TrackingTrainingDashboard.PNG"> <img width="400px"  src="../img/TrackingTrainingProfile.PNG"> <img width="400px"  src="../img/TrackingTrainingUpdate.PNG">
+<img width="400px"  src="../img/TrackingTrainingDashboard.PNG"> <img width="400px"  src="../img/TrackingTrainingProfiles.PNG"> <img width="400px"  src="../img/TrackingTrainingUpdate.PNG">
 ## **What is it**
   Working with Air Force Unit Training Managers and National Security Innovation Network (NSIN) to create a web application for the Air Force to track progress of training. The web application is an improved version of their current system. The current system they have is not tailored for their needs. 
 
