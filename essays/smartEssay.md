@@ -11,7 +11,7 @@ labels:
   - open source software
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/smart-questions/stackOverFlowMeme.png">
+<img width="400px" class="rounded float-start pe-4" src="../img/smart-questions/stackOverFlowMeme.png">
 
 ## **The Why**
 If you never asked for help with your code, then you are a LIAR! Even the most experienced engineers still run into problems. Asking for help is common as a software engineer. To make sure that we do not waste other people’s time and for us to get efficient answers. We must ask smart questions.  Formatting the question to be straight to the point and detailed where the helper can quickly read the question and look at what you did and what you done to fix it. Would help both parties. 
