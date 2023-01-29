@@ -1,4 +1,4 @@
-{
+e{
   "basics": {
     "name": "Elis Diep",
     "label": "Student",
@@ -54,7 +54,7 @@
         ]
     }
   ],
-  "volunteer": [
+  "experience": [
     {
       "organization": "University of Hawaii Drone Technologies",
       "website": "",
