@@ -53,7 +53,18 @@
       ]
     }
   ],
-  
+  "Activities": [
+    {
+      "Name": "University of Hawaii Drone Technologies",
+      "position": "UAV Software Lead"
+      "website": "",
+      "startDate": "2022-01-01",
+      "endDate": "Present",
+      "summary": "UAV software lead. I work with a team of 5 people. That is working on creating a quadcopter that will fly autonomously and mimic paylaod delivery.",
+      "highlights": [
+        "Hand out weekly task to my team and ensure progress is made weekly."
+      ]
+    }
   "references": [
     {
       "name": "Available upon request"
