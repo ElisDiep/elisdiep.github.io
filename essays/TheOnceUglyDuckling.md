@@ -9,7 +9,7 @@ labels:
   - Software engineering
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/javaScript.png">
+<img width="200px" class="rounded float-start pe-4" src="../img/uglyHatchling.jpg">
 
 ## **The Ugly Hatchling**
 I don’t know how I am a senior in computer engineering. My first couple programming classes were a terrible experience. I was probably one of the worse programmers in the world. It took me days to finish my introduction programming assignments in the beginning when it should of took me only a couple of hours. I could have easily quit and tried a different career path but something in me was very interested in the field. I really was fascinated with it, even though I sucked. Coding was fun to me, I loved how I can build a program from scratch and the applications were endless. Overtime in my educational career I improved my critical thinking skill, comprehension skills and studying habits which led me to become a better programmer.  Even though it still can be frustrating at times, my passion has grown even more. 
