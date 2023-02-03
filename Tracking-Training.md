@@ -18,7 +18,7 @@ summary: "Creating a web application that will track the training of the airmen 
   Working with Air Force Unit Training Managers and National Security Innovation Network (NSIN) to create a web application for the Air Force to track progress of training. The web application is an improved version of their current system. The current system they have is not tailored for their needs.
 
 ## **Background**
-Project started in an engineering start up class called Hacking for Defense. Learn to apply the lean methodology to come up with a minimal viable product. Lean methodology concepts are to get as much knowledge before creating a solution. After completing 41 interviews. The team and I created a bubble mockup of what the web application appearance would be and its function. After presenting the minimal viable product (M.V.P), there were a lot of positive feedback on the M.V.P that the N.S.I.N director wanted to continue the project and turn it into a real product and fund it.
+Project started in an engineering startup class called Hacking for Defense. Learn to apply the lean methodology to come up with a minimal viable product. Lean methodology concepts are to get as much knowledge before creating a solution. After completing 41 interviews. The team and I created a bubble mockup of what the web application appearance would be and its function. After presenting the minimal viable product (M.V.P), there was a lot of positive feedback on the M.V.P that the N.S.I.N director wanted to continue the project and turn it into a real product and fund it.
 ##  **Features**
 + Mass update
 + Display percentage of training dashboard
@@ -28,5 +28,5 @@ Project started in an engineering start up class called Hacking for Defense. Lea
 The features were either improved or added that the current system the Air Force does not have.
 
 ## **Outcome** 
-After taking the class, it was valuable experience. I was really interested in trying to start a business of some sort so the class gave me a good direction, when I am ready to start a brand. It also showed me a glimpse of how a tech company would start since the project I was working on was a tech problem. The experience showed me how much work there is to start an application for beneficiaries. This class was one of my most important classes I took so far. it was less learning and applying what I learned so far.  
+After taking the class, it was a valuable experience. I was really interested in trying to start a business of some sort so the class gave me a good direction, when I am ready to start a brand. It also showed me a glimpse of how a tech company would start since the project I was working on was a tech problem. The experience showed me how much work there is to start an application for beneficiaries. This class was one of my most important classes I took so far. It was less learning and applying what I learned so far.  
 
