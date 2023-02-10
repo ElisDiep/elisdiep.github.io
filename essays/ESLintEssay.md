@@ -11,7 +11,7 @@ labels:
   - ESLint
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/ESLintMeme.jpg">
+<img width="300px" class="rounded float-start pe-4" src="../img/ESLintLogo.png">
 
 ## **Make You Better?**
 I'm messy, disorganized, and non-detail oriented. Coding standards can be really annoying but it has become very helpful to me. It forces me to properly structure my code. By implementing coding standards, it allows me to improve the quality of code.  It looks cleaner with even spaces and indents. Coding standards allow the readers to easily look at the code and understand it. Coding standards are useful especially in group work because other teammates or anyone, in general, should be able to scan through the code and easily see what the person coded. I personally do not think coding standards help a person learn to code. For me to learn another language I would need to see the syntax rather than the structure of the code. The only way I think coding standards assist in learning a programming language is to be able to see the code clearly and cleanly.
