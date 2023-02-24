@@ -17,9 +17,9 @@ labels:
 # ***Intro***
 Raw CSS and HTML are horrendous by themselves, but Bootstrap makes it that less. Bootstrap 5 makes front-end development easier than just using CSS and HTML. UI framework has all these predefined classes and interfaces that set the behavior of the window-based UI subsystem. The predefined classes give the user shortcuts allowing them to develop the front end more quickly. 
 
-<img width="400px" class="rounded float-start pe-4" src="../img/recreatedIlliminate.png">
-<img width="400px" class="rounded float-start pe-4" src="../img/illiminate.png">
-<img width="400px" class="rounded float-start pe-4" src="../img/recreatedMurphy.png">
+<img width="350px" class="rounded float-start pe-4" src="../img/recreatedIlliminate.png">
+<img width="350px" class="rounded float-start pe-4" src="../img/illiminate.png">
+<img width="350px" class="rounded float-start pe-4" src="../img/recreatedMurphy.png">
 <img width="300px" class="rounded float-start pe-4" src="../img/murphy.png">
 
 
