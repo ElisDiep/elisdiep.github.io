@@ -3,15 +3,13 @@ layout: project
 type: project
 image: img/jamb-uh-ree logo.png
 title: "Jamb-UH-ree"
-date: 2021
+date: 2023
 published: true
 labels:
   - Bootstrap react
   - MongoDB
   - Web development
   - Software Engineering
-  - Software
-  - C
 summary: "A website application that people can come together and jam out"
 ---
 <img width="300px"  src="../img/jamb-uh-ree logo.png"> 
