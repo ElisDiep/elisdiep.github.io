@@ -17,6 +17,9 @@ summary: "A website application that people can come together and jam out"
 ## **About**
 A website application where people can come together and jam out together. User can make an account and fill their information with their musical abilities. Once an account is made a user can look at existing created jam sessions from other users. The jam session display information for users to join. The user can see the time, date,location and skill level of the session. If a user is interested they can press the join button to join the jam session or press it again to unjoin. Users can also look at other artist and see their profiles and get in contact with them.
 
+<img width="300px"  src="../img/m1landing.png"> <img width="400px"  src="../img/m3browsej.png"> 
+
+
 ## **Contribution**
 I was on a team of 4. I created the front end development pages of create jam session, edit profile and create jam session. I used a Bootsrap-React to create the front end. Example I used the Button, Forms and Cards. For the backend I set the redirects for each button made. An example is when you click the submit button in "create jam session", it will redirect to the jam session page. 
 
