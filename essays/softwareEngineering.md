@@ -15,7 +15,7 @@ labels:
 ---
 
 <div class= "align-items">
-<img width="350px" class="rounded float-start pe-4" src="../img/boy-working-with-electric-drill-clipart.jpg">
+<img width="400px" class="rounded float-start pe-4" src="../img/sunset.jpg">
 
   </div>
   <br>
