@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="title" content="University of Hawaii Drone Technologies | Elis Diep | Professional Portfolio">
+    <meta name="description" content="">
+    <meta name="image" content="https://github.com/elisdiep.png">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Elis Diep | Professional Portfolio">
+    <meta property="og:url" content="https://elisdiep.github.io/UHDT.html">
+    <meta property="og:title" content="University of Hawaii Drone Technologies | Elis Diep | Professional Portfolio">
+    <meta property="og:description" content="">
+    <meta property="og:image" content="https://github.com/elisdiep.png">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <link rel="stylesheet" href="/css/techfolio-theme/default.css">
+    <link rel="stylesheet" type="text/css" href="/css/rouge/github.css">
+    <!-- Load MathJax if 'mathjax: true' is found in your _config.yml. -->
+    
+    <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-MML-AM_CHTML">
+    </script>
+    
+
+    <title>University of Hawaii Drone Technologies | Elis Diep | Professional Portfolio</title>
+  </head>
+  <body>
+  <header class="navbar navbar-expand navbar-light bg-light bg-gradient border-bottom">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="/">Elis Diep</a>
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <a class="nav-link" href="/#projects">Projects</a>
+        <a class="nav-link" href="/#essays">Essays</a>
+        <a class="nav-link" href="/resume.html">Resume</a>
+      </ul>
+    </div>
+  </div>
+</header>
+
+<div class="container py-4">
+  <h1 class="display-4">University of Hawaii Drone Technologies</h1>
+ <p><img width="300px" src="../img/UHDT_Drone.png" /> <img width="300px" src="../img/Logo.jpg" /> <img width="300px" src="../img/SITL.png" /></p>
+<h2 id="about"><strong>About</strong></h2>
+<p>I am the lead to for the unmanned aerial vehicle (UAV) software subsystem. My subsystem and I work to make sure that the UAV has autonomously functionality. My team and I are building an autonomous quadcopter that will attend AUVSI SUAS competition. The drone will mimic payload delivery. The drone will fly waypoint to waypoint and then search and area. In the search area, an object detection classification localization (ODCL) script will run. Once the targets are detected the location will be sent to autonomous python script and the drone will deliver the 5 payloads to each target accordingly.</p>
+<h2 id="autonomous-python-script"><strong>Autonomous Python Script</strong></h2>
+<p>What I contributed to the team was help creating the autonomous flight Python script. The Python script writes the function for the autonomous flight capabilities into a waypoint file. Inside the script there is the waypoint navigation, search the area waypoint navigation and payload delivery. Once the mission completes waypoint navigation it will then search the area, the script will then activate the object, detection, classification and localization (ODCL) script. After the ODCL script has identified the targets location, it will upload the GPS coordinates to the air delivery portion of the code and then the drone will fly to the location and drop of the five payloads accordingly to its destinations. After completing the code we ran software in the loop simulations to make sure the script worked properly and verified it through Google Earth Pro for accuracy.</p>
+<h2 id="outcome"><strong>Outcome</strong></h2>
+<p>Being a part of UHDT was a really good experience. It allowed me to network with other students and allowed me to apply my engineering skills. Having mentors and my advisor really help me. They pass down knowledge that I would not have known if i took just my classes only. UHDT is also allowing me to take more of a leadership role and doing valuable research and development.</p>
+
+
+</div>
+
+<footer class="navbar navbar-expand navbar-light bg-light bg-gradient border-top">
+  <div class="container-fluid">
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <small><a class="nav-link" href="https://techfolios.github.io">Made with Techfolios</a></small>
+      </ul>
+    </div>
+  </div>
+</footer>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+  </body>
+</html>
